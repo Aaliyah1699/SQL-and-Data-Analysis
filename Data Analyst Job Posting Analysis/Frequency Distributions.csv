@@ -1,0 +1,17 @@
+Most Frequent Roles,,Distribution Across Levels,,Industry in the Sectors,
+Job Title,COUNT of ID,Level,COUNT of ID,Industry,COUNT of ID
+Data Analyst,1126,Mid,1380,Technology,617
+Senior Data Analyst,310,Senior,423,Professional Services,450
+Technical Data Analyst,94,Junior,73,Financial,219
+Junior Data Analyst,73,Grand Total,1876,Healthcare,212
+Healthcare/Clinical Analyst,52,,,Other Industries,82
+Business Data Analyst,52,,,Media/Advertising,72
+Financial Data Analyst,35,,,Government,58
+Data Quality Analyst,30,,,Education,48
+Operations/Supply Chain Analyst,23,,,Retail,38
+BI Data Analyst,23,,,Manufacturing,34
+Data Science Analyst,22,,,Social Services,23
+Data Reporting Analyst,19,,,Research,12
+Marketing Data Analyst,12,,,Real Estate,11
+Data Governance Analyst,5,,,Grand Total,1876
+Grand Total,1876,,,,
