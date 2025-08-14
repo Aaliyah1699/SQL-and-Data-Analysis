@@ -1,0 +1,101 @@
+Employee_ID,Age,Experience_Years,Hours_Worked_Per_Week,Productivity_Score,Burnout_Score,Sleep_Hours_Per_Day,Work_Life_Balance_Rating,Remote_Setup_Satisfaction,Team_Communication_Effectiveness,Descriptive Stats Tables,
+1,28,5,45,7,44,6,8,10,8,Mean,
+2,41,11,40,8,58,5,9,3,9,Avg of Age,36
+3,36,12,44,7,78,6,6,9,8,Avg of Experience_Years,9
+4,32,16,41,9,71,5,9,6,8,Avg of Hours_Worked_Per_Week,42
+5,29,2,43,7,69,7,6,9,5,Avg of Productivity_Score,6
+6,42,20,45,7,59,9,3,7,9,Avg of Sleep_Hours_Per_Day,6
+7,28,10,38,9,87,5,5,7,3,Avg of Work_Life_Balance_Rating,6
+8,47,6,53,6,84,5,6,6,9,Avg of Burnout_Score,50
+9,40,18,37,4,18,5,8,9,6,Avg of Remote_Setup_Satisfaction,6
+10,44,15,36,3,43,8,3,8,9,Avg of Team_Communication_Effectiveness,6
+11,32,19,48,8,85,7,3,6,6,Median,
+12,32,7,46,7,44,5,4,9,7,MEDIAN of Age,36
+13,45,12,45,8,10,9,4,4,6,MEDIAN of Experience_Years,9
+14,42,12,45,5,49,8,8,3,8,MEDIAN of Hours_Worked_Per_Week,42
+15,25,20,42,4,73,4,4,3,3,MEDIAN of Productivity_Score,6
+16,29,2,38,3,31,7,7,5,3,MEDIAN of Sleep_Hours_Per_Day,6
+17,45,7,42,6,69,8,6,4,4,MEDIAN of Work_Life_Balance_Rating,6
+18,24,5,39,7,73,6,7,9,3,MEDIAN of Burnout_Score,47
+19,43,6,47,6,81,4,9,3,9,MEDIAN of Remote_Setup_Satisfaction,6
+20,42,10,41,6,20,4,5,8,4,MEDIAN of Team_Communication_Effectiveness,6
+21,23,8,38,9,23,5,8,4,10,Min,
+22,45,9,40,5,69,8,5,9,5,MIN of Age,22
+23,33,17,44,7,39,9,5,10,4,MIN of Experience_Years,1
+24,27,19,39,9,44,5,10,6,8,MIN of Hours_Worked_Per_Week,31
+25,23,2,38,6,46,5,4,9,7,MIN of Productivity_Score,3
+26,49,5,43,7,14,5,3,2,6,MIN of Sleep_Hours_Per_Day,4
+27,42,14,43,9,87,5,8,9,6,MIN of Burnout_Score,10
+28,22,8,40,10,35,8,3,4,8,MIN of Work_Life_Balance_Rating,2
+29,33,6,40,4,71,6,9,9,4,MIN of Remote_Setup_Satisfaction,2
+30,47,7,43,10,13,6,6,2,10,MIN of Team_Communication_Effectiveness,2
+31,43,7,35,6,51,5,9,6,10,Max,
+32,33,17,35,5,27,7,8,8,7,MAX of Age,49
+33,46,4,38,6,49,6,7,4,4,MAX of Experience_Years,20
+34,38,15,41,10,81,8,10,4,7,MAX of Hours_Worked_Per_Week,53
+35,48,12,44,6,48,5,5,3,3,MAX of Productivity_Score,10
+36,48,7,49,5,23,8,10,5,2,MAX of Sleep_Hours_Per_Day,9
+37,31,9,46,7,41,7,3,7,4,MAX of Burnout_Score,87
+38,49,6,41,5,60,5,6,3,6,MAX of Work_Life_Balance_Rating,10
+39,49,13,42,4,47,6,4,5,9,MAX of Remote_Setup_Satisfaction,10
+40,37,3,37,4,32,8,6,2,8,MAX of Team_Communication_Effectiveness,10
+41,36,1,42,4,72,9,3,9,8,Standard Deviation,
+42,36,13,41,4,24,6,9,3,5,STDEV of Age,8
+43,40,5,44,4,34,6,9,4,5,STDEV of Experience_Years,6
+44,33,2,38,8,26,9,10,2,5,STDEV of Hours_Worked_Per_Week,5
+45,44,9,45,4,75,7,3,6,10,STDEV of Productivity_Score,2
+46,41,2,50,5,87,4,7,9,2,STDEV of Sleep_Hours_Per_Day,1
+47,46,18,42,9,62,9,6,5,9,STDEV of Burnout_Score,22
+48,24,2,44,6,60,5,5,3,7,STDEV of Work_Life_Balance_Rating,2
+49,26,12,46,8,48,7,5,8,6,STDEV of Remote_Setup_Satisfaction,3
+50,40,9,40,4,60,5,5,8,8,STDEV of Team_Communication_Effectiveness,2
+51,28,14,43,4,79,4,8,3,6,,
+52,42,7,42,3,15,6,7,8,9,,
+53,30,4,43,4,76,8,6,10,9,,
+54,28,20,38,5,16,5,3,3,5,,
+55,39,17,42,4,60,5,3,8,4,,
+56,25,17,45,4,81,5,2,8,7,,
+57,46,6,49,4,51,7,10,6,9,,
+58,49,2,47,6,73,9,2,3,4,,
+59,35,7,53,4,24,6,3,3,7,,
+60,39,11,38,6,38,7,5,9,7,,
+61,47,7,46,7,42,8,9,10,8,,
+62,30,17,43,8,36,7,10,7,3,,
+63,47,6,53,3,45,5,8,6,8,,
+64,42,19,38,9,38,6,8,7,9,,
+65,23,10,38,7,47,6,6,7,3,,
+66,41,17,39,4,66,6,3,5,4,,
+67,49,5,31,9,36,6,10,3,10,,
+68,36,9,39,9,64,8,8,9,3,,
+69,49,14,38,3,42,6,7,5,9,,
+70,28,4,43,5,77,6,8,9,6,,
+71,33,4,44,9,75,7,8,4,4,,
+72,29,19,51,8,19,6,7,2,9,,
+73,36,15,47,4,14,8,10,3,6,,
+74,24,2,39,5,83,7,9,6,6,,
+75,35,9,38,6,47,6,7,10,5,,
+76,38,9,45,6,22,8,8,3,7,,
+77,25,15,35,7,40,7,2,9,3,,
+78,39,6,51,6,56,7,7,6,5,,
+79,29,5,48,6,61,6,2,9,10,,
+80,25,3,40,8,65,7,7,4,4,,
+81,23,9,33,3,24,8,10,9,7,,
+82,27,14,49,5,38,5,6,8,5,,
+83,43,2,41,8,17,6,6,4,8,,
+84,31,18,48,9,14,4,5,3,3,,
+85,25,9,34,7,38,8,3,9,10,,
+86,43,6,39,7,56,5,8,10,6,,
+87,39,3,42,4,77,9,4,2,4,,
+88,47,5,42,6,85,7,3,8,3,,
+89,33,19,40,7,54,8,5,9,3,,
+90,23,13,45,5,11,9,8,9,6,,
+91,31,11,37,5,36,8,8,10,5,,
+92,25,14,41,6,45,8,2,8,9,,
+93,35,9,43,3,45,6,6,6,5,,
+94,37,15,45,5,35,7,6,5,4,,
+95,36,2,46,5,52,5,7,5,7,,
+96,29,12,36,5,36,5,7,8,8,,
+97,35,4,34,4,78,7,5,8,3,,
+98,44,3,48,9,29,7,7,4,3,,
+99,49,8,44,7,20,6,6,9,2,,
+100,46,3,38,8,83,7,9,8,8,,
